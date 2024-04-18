@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/New 1000 Mezza/Desktop/projds
+# Install script for directory: C:/Users/New 1000 Mezza/OneDrive - Arab Academy for Science and Technology/Documents/GitHub/dsproj
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/New 1000 Mezza/Desktop/projds/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/New 1000 Mezza/OneDrive - Arab Academy for Science and Technology/Documents/GitHub/dsproj/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

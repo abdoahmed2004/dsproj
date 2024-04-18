@@ -63,7 +63,7 @@ public:
             cout<<"NO users "<<endl;
             return false;
         }
-        if(ssn == arr[size-1].second){
+        if(ssn == arr[size-1].second && arr[size-1].first>0){
             return true;
         }
         else{
